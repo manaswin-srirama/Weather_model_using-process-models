@@ -1,4 +1,4 @@
-# Weather_model_using-process-models
+
 # 🌦 Weather Modeling Using Quadratic Equation  
 
 This project demonstrates *weather prediction* using a simple *quadratic equation* and shows how the same system can be developed under different *software engineering models*:  
